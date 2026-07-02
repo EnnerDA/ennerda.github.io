@@ -1,3 +1,2 @@
-# ennerda.github.io
-<h1>Hello!</h1>
-<h2>Second flour</h2>
+<h1>Hey krasotka!</h1>
+<h2>kak delar</h2>
